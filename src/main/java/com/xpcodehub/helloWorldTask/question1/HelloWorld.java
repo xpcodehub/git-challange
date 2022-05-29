@@ -8,6 +8,6 @@ public class HelloWorld {
 * */
 
     public String sendHelloWorld() {
-        return "Corrigir aqui";
+        return "Hello World";
     }
 }
